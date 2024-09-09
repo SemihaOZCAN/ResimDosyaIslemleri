@@ -1,0 +1,8 @@
+RESİM DOSYA İŞLEMLERİ
+********************************
+Bu uygulama, bir resim dosyasını seçip üzerine belirlenen metni eklemeye ve düzenlenmiş resmi farklı formatlarda (.jpg veya .png) kaydetmeye yarar. Kullanıcı, metnin rengini ve boyutunu seçebilir, ardından resmi görüntüleyip kaydedebilir.
+Kullanım Alanları:
+Grafik Tasarım: Basit görsel düzenlemeler ve üzerine yazı ekleme işlemlerinde kullanılabilir.
+Fotoğraf Düzenleme: Resimlere hızlıca metin ekleyerek sosyal medya veya reklam materyalleri hazırlamada kullanılabilir.
+Eğitim: Programlama öğrenirken temel grafik ve dosya işlemlerini öğretmek için iyi bir örnektir.
+Bu proje, görsel manipülasyon ve dosya işlemleri konusunda temel beceriler kazandırır ve küçük çaplı grafik uygulamaları geliştirmede başlangıç seviyesinde bir örnektir.

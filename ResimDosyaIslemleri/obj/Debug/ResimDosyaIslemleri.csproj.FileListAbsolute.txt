@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\bin\Debug\ResimDosyaIslemleri.exe.config
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\bin\Debug\ResimDosyaIslemleri.exe
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\bin\Debug\ResimDosyaIslemleri.pdb
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\obj\Debug\ResimDosyaIslemleri.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\obj\Debug\ResimDosyaIslemleri.Form1.resources
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\obj\Debug\ResimDosyaIslemleri.Properties.Resources.resources
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\obj\Debug\ResimDosyaIslemleri.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\obj\Debug\ResimDosyaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\obj\Debug\ResimDosyaIslemleri.exe
+C:\Users\Semiha\Desktop\ResimDosyaIslemleri\ResimDosyaIslemleri\obj\Debug\ResimDosyaIslemleri.pdb
